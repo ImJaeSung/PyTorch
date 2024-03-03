@@ -173,3 +173,5 @@ logs
 etc
 figs
 *.json
+dataset
+archive
