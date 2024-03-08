@@ -1,5 +1,7 @@
 # PyTorch Basics Learning Repository
 
+![PyTorch Logo]([path/to/the/pytorch-logo.png](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A512%2F0*wtNmf_1aQR8OBGMJ.png&tbnid=aYM4mLJOI7rB7M&vet=12ahUKEwiyjqSG8-SEAxX6WvUHHb1WD7sQMygCegQIARBW..i&imgrefurl=https%3A%2F%2Fmedium.com%2F%40hxu296%2Fa-trip-to-kernels-understanding-pytorchs-internal-architecture-fc955aafd54c&docid=-CdPytvp-AeVAM&w=512&h=256&q=pytorch&ved=2ahUKEwiyjqSG8-SEAxX6WvUHHb1WD7sQMygCegQIARBW))
+
 This repository is created for those who are new to PyTorch. It aims to introduce the fundamental concepts and usage of PyTorch, covering the basics that are essential for beginners to understand and start experimenting with PyTorch in their machine learning or deep learning projects.
 
 ## Introduction
